@@ -25,13 +25,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
+          # Hinweis: "cache: npm" braucht eine committete package-lock.json.
+          # Sobald du einmal lokal `npm install` ausgeführt und die dabei
+          # entstehende package-lock.json committet/gepusht hast, kannst du
+          # hier wieder `cache: 'npm'` eintragen und unten `npm install`
+          # durch `npm ci` ersetzen (schneller + reproduzierbar).
 
       - name: GitHub Pages konfigurieren
         uses: actions/configure-pages@v5
 
       - name: Abhängigkeiten installieren
-        run: npm ci
+        run: npm install
 
       - name: Statischen Export bauen
         run: npm run build
