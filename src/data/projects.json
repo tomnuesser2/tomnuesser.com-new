@@ -1,7 +1,7 @@
 [
   {
     "slug": "leona",
-    "title": "Working with LEONA",
+    "title": "LEONA – festival live sessions",
     "year": "2026",
     "role": ["Kamera", "Ton-Sync", "Schnitt", "Color Grading"],
     "client": "LEONA",
@@ -11,36 +11,157 @@
       "The production was filmed using a multicam setup with the Sony FX3 and Sony A7 IV. Audio was recorded separately, professionally mixed and mastered, and then synchronized with the footage in post-production. I was responsible for the complete video production workflow – from camera setup and filming to editing, color grading, and the final delivery of the live session videos."
     ],
     "template": "parallax-scroll",
-    "cover": { "type": "video", "label": "LEONA – Live Session, Deutsches Haus Flensburg", "ratio": "16/9" },
+    "cover": {
+      "type": "video",
+      "label": "Leona – Machine (festival live session)",
+      "ratio": "16/9",
+      "vimeoId": "1207034763",
+      "poster": "https://i.vimeocdn.com/video/2176033929-23ff6a9c201b953d310161a3aad4502e8409e21e036b3fb28da20815d595e852-d_1280"
+    },
     "gallery": [
-      { "type": "image", "label": "LEONA am Mikrofon, Bühnennebel", "ratio": "16/9" },
-      { "type": "image", "label": "Bandaufnahme, Weitwinkel", "ratio": "16/9" },
-      { "type": "image", "label": "Nahaufnahme, Gitarre s/w", "ratio": "16/9" }
+      {
+        "type": "video",
+        "label": "Leona – Echoes (festival live session)",
+        "ratio": "16/9",
+        "vimeoId": "1207034297",
+        "poster": "https://i.vimeocdn.com/video/2176033259-3ceb871d722315945838001be9ee8b36fa41c59ed849c48957bf8b6cf5b5f524-d_1280"
+      }
     ],
-    "links": [{ "label": "Vimeo", "href": "https://vimeo.com" }],
+    "links": [
+      { "label": "Machine – Vimeo", "href": "https://vimeo.com/1207034763" },
+      { "label": "Echoes – Vimeo", "href": "https://vimeo.com/1207034297" }
+    ],
+    "published": true
+  },
+  {
+    "slug": "norder147",
+    "title": "norder147 x canim3denim",
+    "year": "2025",
+    "role": ["Kamera", "Schnitt", "Postproduktion"],
+    "client": "NORDER147 x canim3denim",
+    "summary": "Upcycling-Workshop – dokumentarischer Kurzfilm.",
+    "description": [
+      "This non-profit project documented an upcycling workshop hosted at NORDER147, a creative project space and atelier in Flensburg. The goal was to capture the workshop's atmosphere while highlighting how simple and accessible it can be to transform old clothing into something new, encouraging a more sustainable approach to fashion.",
+      "The event was filmed in collaboration with my friend Larissa, while I was responsible for the editing and post-production. As the workshop was organized by a friend (canim3denim), we volunteered our work to support the project and help increase its visibility through a short highlight movie that reflects the creative and community-driven spirit of the event and captures the moment."
+    ],
+    "template": "cinematic-hero",
+    "cover": {
+      "type": "video",
+      "label": "canim3denim – upcycling workshop @ norder147",
+      "ratio": "16/9",
+      "vimeoId": "1207050796",
+      "poster": "https://i.vimeocdn.com/video/2176054595-c1824c5a6e11c9209f23f5f6e132100c1345424f12e9866ffbe3dfc5d2fe6037-d_1280"
+    },
+    "gallery": [],
+    "links": [{ "label": "Vimeo", "href": "https://vimeo.com/1207050796" }],
     "published": true
   },
   {
     "slug": "garden-festival-2026",
     "title": "Gården Festival 2026",
     "year": "2026",
-    "role": ["Kamera", "Aftermovie-Schnitt"],
-    "client": "Gården Festival",
-    "summary": "Festival-Recap zwischen Zelten, Lichtern und Sommernächten.",
+    "role": ["Foto", "Video", "Festival-Content"],
+    "client": "Qrue Collective / Gården Festival",
+    "summary": "Festival-Content für Qrue Collective & Festival-Artists.",
     "description": [
-      "Ein dokumentarisches Aftermovie-Projekt für das Gården Festival 2026 – eingefangen mit Super-8-artiger Bildsprache, Handkamera und viel Nähe zum Publikum statt zur Bühne.",
-      "Ziel war es, das Gefühl der Nächte auf dem Festivalgelände einzufangen: unscharfe Bewegungen, warmes Kunstlicht, Menschen statt Line-up. Der Schnitt folgt der Musik, nicht der Chronologie."
+      "As part of the media coverage for Gården Festival in Tydal, Eggebek, I produced photo and video content for multiple artists and performances throughout the festival. My main focus was creating dynamic festival content for Qrue Collective, while also filming live performances by MALM and Leona, alongside capturing photography and videography for the Danish artists AFSKUM and Søn.",
+      "Working in a fast-paced festival environment, I documented live performances, backstage moments, and the overall atmosphere of the event. The goal was to create authentic, cinematic content that reflected the energy of the festival and its artists."
     ],
     "template": "festival-grid",
-    "cover": { "type": "image", "label": "Rückenansicht, Festivalzelt bei Nacht", "ratio": "16/9" },
+    "cover": {
+      "type": "video",
+      "label": "Video Garden",
+      "ratio": "16/9",
+      "vimeoId": "1207050247",
+      "poster": "https://i.vimeocdn.com/video/2176053882-2a4c6591ed4c875688b99870e131bd925421c03223e554d6887c532253fb92d7-d_1280"
+    },
     "gallery": [
+      {
+        "type": "video",
+        "label": "Søn at Gården Festival",
+        "ratio": "9/16",
+        "vimeoId": "1206897304",
+        "poster": "https://i.vimeocdn.com/video/2175867270-3d8208f9b431d2cfbe1b8390def8de7caf99e1249d3848ca09330eba0d62430a-d_1280"
+      },
+      {
+        "type": "video",
+        "label": "Mikkel",
+        "ratio": "16/9",
+        "vimeoId": "1206899803",
+        "poster": "https://i.vimeocdn.com/video/2175870545-09a2134577396b98ca9f7f401c28d0261c245d52d5401551ef49cd8806d88862-d_1280"
+      },
       { "type": "image", "label": "Lichterkette im Zeltinneren", "ratio": "3/2" },
-      { "type": "image", "label": "Tanzende Silhouetten", "ratio": "1/1" },
-      { "type": "video", "label": "Aftermovie-Ausschnitt, Bühne", "ratio": "9/16" },
-      { "type": "image", "label": "Sonnenaufgang über dem Gelände", "ratio": "16/9" },
       { "type": "image", "label": "Backstage, wartende Crew", "ratio": "3/2" },
       { "type": "image", "label": "Publikum von oben", "ratio": "1/1" }
     ],
+    "links": [
+      { "label": "Video Garden – Vimeo", "href": "https://vimeo.com/1207050247" },
+      { "label": "Søn – Vimeo", "href": "https://vimeo.com/1206897304" },
+      { "label": "Mikkel – Vimeo", "href": "https://vimeo.com/1206899803" }
+    ],
+    "published": true
+  },
+  {
+    "slug": "qrue-kuehlhaus",
+    "title": "QRUE Collective x Kühlhaus Flensburg",
+    "year": "2025",
+    "role": ["Kamera", "Ton", "Schnitt"],
+    "client": "QRUE Collective",
+    "summary": "Live-Konzertmitschnitt im Kühlhaus Flensburg.",
+    "description": [
+      "This project documents the QRUE PLUS event at Kühlhaus Flensburg, where I was responsible for filming the live performance in an indoor concert setting with a deliberately minimal equipment setup. The production environment came with initial technical challenges, particularly regarding audio capture and room acoustics.",
+      "Despite these constraints, I focused on maximizing the available resources to deliver the highest possible audiovisual quality. Through adaptive on-site decision-making and careful post-production work, the final result preserves the raw energy of the event while maintaining a clean and usable sound and image representation of the performance."
+    ],
+    "template": "split-showcase",
+    "cover": {
+      "type": "video",
+      "label": "QRUE PLUS – One Night at Kühlhaus Flensburg",
+      "ratio": "16/9",
+      "vimeoId": "1207027781",
+      "poster": "https://i.vimeocdn.com/video/2176024370-a0ba4253a8b04ed4b0e076896701fa9656a8efdaf99926657f3f3479a9e52e0f-d_1280"
+    },
+    "gallery": [
+      {
+        "type": "video",
+        "label": "QRUE PLUS – One Night at Kühlhaus Flensburg",
+        "ratio": "16/9",
+        "vimeoId": "1207027781",
+        "poster": "https://i.vimeocdn.com/video/2176024370-a0ba4253a8b04ed4b0e076896701fa9656a8efdaf99926657f3f3479a9e52e0f-d_1280"
+      },
+      {
+        "type": "video",
+        "label": "FRIF @QRUE PLUS",
+        "ratio": "16/9",
+        "vimeoId": "1158480022",
+        "poster": "https://i.vimeocdn.com/video/2112527522-fa00ca3f789d7c3e83e11de0d267cfb59c68c0aceb54a9cc5feaaaa226ef6240-d_1280"
+      }
+    ],
+    "links": [
+      { "label": "One Night – Vimeo", "href": "https://vimeo.com/1207027781" },
+      { "label": "FRIF – Vimeo", "href": "https://vimeo.com/1158480022" }
+    ],
+    "published": true
+  },
+  {
+    "slug": "flensburg-akademie",
+    "title": "Flensburg Akademie",
+    "year": "2025",
+    "role": ["Social Media", "Fotografie", "Grafikdesign"],
+    "client": "Flensburg Akademie",
+    "summary": "Social-Media-Content, Foto & Grafikdesign als Working Student.",
+    "description": [
+      "As a working student at Flensburg Akademie, I was responsible for Social Media Management while also working as a Photographer, Digital Creator, and Graphic Designer. Acting as a versatile all-rounder, I supported a wide range of creative and strategic tasks and contributed to building a strong, visually consistent digital presence."
+    ],
+    "template": "parallax-scroll",
+    "cover": {
+      "type": "video",
+      "label": "Krafttests",
+      "ratio": "16/9",
+      "vimeoId": "1158628047",
+      "poster": "https://i.vimeocdn.com/video/2112733915-1718f6f670db22b711a3e1f8608e2f6f85f4fc039dcf7e451d2e5d65b09ba41b-d_1280"
+    },
+    "gallery": [],
+    "links": [{ "label": "Vimeo", "href": "https://vimeo.com/1158628047" }],
     "published": true
   },
   {
@@ -115,47 +236,6 @@
       { "type": "image", "label": "Kamerawinkel C – Detail Hände", "ratio": "4/5" },
       { "type": "image", "label": "Setup-Foto, Lichtaufbau", "ratio": "4/5" },
       { "type": "image", "label": "Making-of, Monitor-Blick", "ratio": "4/5" }
-    ],
-    "published": true
-  },
-  {
-    "slug": "kurzfilm-prolog",
-    "title": "Kurzfilm – Prolog",
-    "year": "2026",
-    "role": ["Kamera", "Regie"],
-    "client": "Platzhalter-Projekt",
-    "summary": "Ein einzelner, sich beim Scrollen öffnender Establishing Shot.",
-    "description": [
-      "Platzhalter-Beschreibung: Eignet sich für ein einzelnes starkes Herobild oder -video, das den Ton eines größeren Projekts setzt – etwa den Prolog eines Kurzfilms oder eine Titelsequenz.",
-      "Der Hero zoomt beim Scrollen sanft heraus und gibt Titel sowie Beschreibung frei. Danach folgt eine ruhige Bildstrecke."
-    ],
-    "template": "cinematic-hero",
-    "cover": { "type": "video", "label": "Prolog – Establishing Shot", "ratio": "16/9" },
-    "gallery": [
-      { "type": "image", "label": "Standbild 01, Landschaft", "ratio": "16/9" },
-      { "type": "image", "label": "Standbild 02, Portrait", "ratio": "4/5" },
-      { "type": "image", "label": "Standbild 03, Detail", "ratio": "1/1" }
-    ],
-    "published": true
-  },
-  {
-    "slug": "behind-the-scenes",
-    "title": "Behind the Scenes",
-    "year": "2026",
-    "role": ["Set-Fotografie", "Making-of"],
-    "client": "Platzhalter-Projekt",
-    "summary": "Setfotos und finale Aufnahme im direkten Nebeneinander.",
-    "description": [
-      "Platzhalter-Beschreibung: Zeigt den Produktionsprozess und das fertige Ergebnis gegenübergestellt – gut für Making-of-Content oder um Setaufbau und finalen Shot zu vergleichen.",
-      "Fülle die \"gallery\" mit Paaren aus Set-Foto und fertigem Bild (abwechselnd), der Text bleibt an der Seite fixiert, während die Bilder vorbeiscrollen."
-    ],
-    "template": "split-showcase",
-    "cover": { "type": "image", "label": "Set-Aufbau, Kamera & Licht", "ratio": "4/5" },
-    "gallery": [
-      { "type": "image", "label": "Set-Foto 01", "ratio": "4/5" },
-      { "type": "image", "label": "Finales Bild 01", "ratio": "4/5" },
-      { "type": "image", "label": "Set-Foto 02", "ratio": "4/5" },
-      { "type": "image", "label": "Finales Bild 02", "ratio": "4/5" }
     ],
     "published": true
   },

@@ -42,6 +42,28 @@ export default function ProjectHeading({
           <p className="mt-5 text-sm md:text-base leading-relaxed text-black/80">{paragraph}</p>
         </FadeIn>
       ))}
+
+      {project.links && project.links.length > 0 && (
+        <FadeIn direction="up" delay={0.2}>
+          <div
+            className={`mt-6 flex flex-wrap gap-2 ${
+              align === 'center' ? 'justify-center' : 'justify-start'
+            }`}
+          >
+            {project.links.map((link) => (
+              <a
+                key={link.href}
+                href={link.href}
+                target="_blank"
+                rel="noreferrer"
+                className="rounded-pill border border-black/15 px-3 py-1.5 text-xs hover:bg-black hover:text-white transition-colors"
+              >
+                {link.label} ↗
+              </a>
+            ))}
+          </div>
+        </FadeIn>
+      )}
     </div>
   );
 }

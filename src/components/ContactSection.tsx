@@ -5,11 +5,10 @@ import FadeIn from './FadeIn';
 
 const EMAIL = 'nuessertom@gmail.com';
 
-// Trage hier deine echten Profil-Links ein.
+// Echte Profil-Links (von tomnuesser.com übernommen).
 const SOCIALS = [
-  { label: 'YouTube', href: 'https://youtube.com/', icon: YouTubeIcon },
-  { label: 'Instagram', href: 'https://instagram.com/', icon: InstagramIcon },
-  { label: 'LinkedIn', href: 'https://linkedin.com/', icon: LinkedInIcon },
+  { label: 'YouTube', href: 'https://www.youtube.com/@recordingsequence', icon: YouTubeIcon },
+  { label: 'Instagram', href: 'https://www.instagram.com/recsequence', icon: InstagramIcon },
 ];
 
 export default function ContactSection() {
