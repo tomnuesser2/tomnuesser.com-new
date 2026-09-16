@@ -42,7 +42,11 @@ export default function FadeIn({
 
   return (
     <MotionTag
-      ref={ref}
+      // MotionTag ist ein Union-Typ (div | span | li | section), daher
+      // verlangt TypeScript einen ref, der auf ALLE Varianten gleichzeitig
+      // passt. Zur Laufzeit wird aber immer nur ein Tag gerendert, daher
+      // ist der Cast hier sicher.
+      ref={ref as never}
       className={className}
       initial={{ opacity: 0, ...offset }}
       animate={inView ? { opacity: 1, x: 0, y: 0 } : { opacity: 0, ...offset }}
